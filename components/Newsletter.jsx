@@ -6,7 +6,7 @@ const Newsletter = () => {
       {/* Main Container */}
       <div className='max-w-lg mx-auto py-24'>
         <p className='mb-6 text-lg tracking-widest text-center text-white uppercase'>
-          Make the most of your newfound free time by focusing on your clients.
+          Free Your Schedule, Focus On What Matters Most.
         </p>
         <h2 className='px-3 mb-6 text-3xl font-semibold text-center text-white md:text-4xl'>
           Gain Early Access

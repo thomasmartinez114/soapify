@@ -1,5 +1,4 @@
 import Image from 'next/image';
-// import logo from '@/assets/images/logo-bookmark.svg';
 import logo from '@/assets/images/placeholder-logo.svg';
 
 const Navbar = () => {
