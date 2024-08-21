@@ -12,7 +12,9 @@ const Hero = () => {
             SOAPify AI
           </h1>
           <p className='max-w-md mx-auto text-lg text-center text-gray-400 lg:text-2xl lg:text-left lg:mt-0 lg:mx-0'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum soluta aliquam necessitatibus doloribus, aspernatur officia illum porro aut exercitationem dolor!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
+            soluta aliquam necessitatibus doloribus, aspernatur officia illum
+            porro aut exercitationem dolor!
           </p>
 
           {/* <!-- Buttons Container --> */}
@@ -21,14 +23,14 @@ const Hero = () => {
               href='#'
               className='p-4 text-sm font-semibold text-white bg-softBlue rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue'
             >
-              Get It On Chrome
+              Register Now
             </a>
-            <a
+            {/* <a
               href='#'
               className='p-4 text-sm font-semibold text-black bg-gray-300 rounded shadow-md border-2 border-gray-300 md:text-base hover:bg-white hover:text-gray-600'
             >
               Get It On Firefox
-            </a>
+            </a> */}
           </div>
         </div>
 
