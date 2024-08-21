@@ -10,9 +10,10 @@ const Features = () => {
         <div className='container mx-auto mt-16 px-6'>
           <h2 className='mb-6 text-4xl font-semibold text-center'>Features</h2>
           <p className='max-w-md mx-auto text-center text-grayishBlue'>
-            Our aim is to make it quick and easy for you to access your favorite
-            websites. Your bookmarks sync between your devices so you can access
-            them on the go.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis
+            aliquam porro consequuntur? Corrupti alias dignissimos modi!
+            Consequuntur placeat illo, nobis eligendi impedit molestiae
+            accusantium fuga inventore dolor quae dicta recusandae.
           </p>
         </div>
       </section>
