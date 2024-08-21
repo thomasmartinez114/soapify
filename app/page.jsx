@@ -1,9 +1,11 @@
-'use client';
-
-import Image from 'next/image';
+import Hero from '@/components/Hero';
 
 const HomePage = () => {
-  return <h5>Hello World</h5>;
+  return (
+    <>
+      <Hero />
+    </>
+  );
 };
 
 export default HomePage;

@@ -1,5 +1,6 @@
 import Image from 'next/image';
-import logo from '@/assets/images/logo-bookmark.svg';
+// import logo from '@/assets/images/logo-bookmark.svg';
+import logo from '@/assets/images/placeholder-logo.svg';
 
 const Navbar = () => {
   return (
@@ -16,19 +17,19 @@ const Navbar = () => {
           <a href='#features' className='tracking-widest hover:text-softRed'>
             Features
           </a>
-          <a href='#download' className='tracking-widest hover:text-softRed'>
+          {/* <a href='#download' className='tracking-widest hover:text-softRed'>
             Download
-          </a>
+          </a> */}
           <a href='#faq' className='tracking-widest hover:text-softRed'>
             FAQ
           </a>
 
-          <a
+          {/* <a
             href='#'
             className='px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white'
           >
             Login
-          </a>
+          </a> */}
         </div>
       </div>
     </nav>
