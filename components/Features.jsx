@@ -33,19 +33,19 @@ const Features = () => {
                 className='py-5 border-b-4 border-softRed'
                 data-target='panel-1'
               >
-                Simple Bookmarking
+                Feature 1
               </div>
             </div>
             {/* Tab 2 */}
             <div className='flex justify-center text-center text-gray-600 border-b md:border-b-0 hover:text-softRed md:w-1/3 tab'>
               <div className='py-5' data-target='panel-2'>
-                Speedy Searching
+                Feature 2
               </div>
             </div>
             {/* Tab 3 */}
             <div className='flex justify-center text-center text-gray-600 border-b md:border-b-0 hover:text-softRed md:w-1/3 tab'>
               <div className='py-5' data-target='panel-3'>
-                Easy Sharing
+                Feature 3
               </div>
             </div>
           </div>
