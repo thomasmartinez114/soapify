@@ -13,15 +13,15 @@ const Navbar = () => {
 
         {/* <!-- Menu Items --> */}
         <div className='hidden items-center space-x-10 uppercase text-grayishBlue md:flex'>
-          <a href='#features' className='tracking-widest hover:text-softRed'>
+          {/* <a href='#features' className='tracking-widest hover:text-softRed'>
             Features
-          </a>
+          </a> */}
           {/* <a href='#download' className='tracking-widest hover:text-softRed'>
             Download
           </a> */}
-          <a href='#faq' className='tracking-widest hover:text-softRed'>
+          {/* <a href='#faq' className='tracking-widest hover:text-softRed'>
             FAQ
-          </a>
+          </a> */}
 
           {/* <a
             href='#'
