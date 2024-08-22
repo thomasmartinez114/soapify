@@ -90,7 +90,7 @@ const Features = () => {
           </div>
 
           {/* Tabs Panel */}
-          <section id='panels' className='container mx-auto'>
+          <div id='panels' className='container mx-auto'>
             {/* Panel 1 */}
             <div className='flex flex-col py-5 md:flex-row md:space-x-7 panel panel-1'>
               {/* Panel Image */}
@@ -145,7 +145,7 @@ const Features = () => {
                 </p>
               </div>
             </div>
-          </section>
+          </div>
         </div>
       </section>
     </>
