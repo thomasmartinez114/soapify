@@ -46,12 +46,19 @@ const Features = () => {
     <>
       <section id='features'>
         <div className='container mx-auto mt-16 px-6'>
-          <h2 className='mb-6 text-4xl font-semibold text-center'>Features</h2>
+          {/* <h2 className='mb-6 text-4xl font-semibold text-center'>Features</h2> */}
           <p className='max-w-md mx-auto text-center text-grayishBlue'>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis
-            aliquam porro consequuntur? Corrupti alias dignissimos modi!
-            Consequuntur placeat illo, nobis eligendi impedit molestiae
-            accusantium fuga inventore dolor quae dicta recusandae.
+            SOAPify AI revolutionizes medical documentation by automating the
+            creation of SOAP (Subjective, Objective, Assessment, Plan) notes,
+            providing healthcare/wellness professionals with a seamless and
+            efficient solution to streamline their workflow. Leveraging Large
+            Language Model technologies and intuitive design, the app ensures
+            accurate and comprehensive notes, allowing professionals to focus
+            more on patient care and less on administrative tasks. Whether in a
+            busy hospital, private practice, or telehealth setting, SOAPify AI
+            enhances productivity, reduces errors, and ensures consistent,
+            high-quality documentation, ultimately improving patient outcomes
+            and satisfaction.
           </p>
         </div>
       </section>
@@ -72,7 +79,7 @@ const Features = () => {
                 className='py-5 border-b-4 border-softRed'
                 data-target='panel-1'
               >
-                Feature 1
+                Automated SOAP Notes
               </div>
             </div>
             {/* Tab 2 */}
@@ -100,7 +107,7 @@ const Features = () => {
               {/* Panel Content */}
               <div className='flex flex-col space-y-8 md:w-1/2'>
                 <h3 className='mt-32 text-3xl font-semibold text-center md:mt-0 md:text-left'>
-                  Feature 1
+                  Automated SOAP Notes
                 </h3>
                 <p className='max-w-md text-center text-grayishBlue md:text-left'>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.

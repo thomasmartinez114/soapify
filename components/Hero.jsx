@@ -12,9 +12,8 @@ const Hero = () => {
             SOAPify AI
           </h1>
           <p className='max-w-md mx-auto text-lg text-center text-gray-400 lg:text-2xl lg:text-left lg:mt-0 lg:mx-0'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
-            soluta aliquam necessitatibus doloribus, aspernatur officia illum
-            porro aut exercitationem dolor!
+            An innovative app that automates the creation of precise wellness
+            SOAP notes, streamlining documentation and improving efficiency.
           </p>
 
           {/* <!-- Buttons Container --> */}
